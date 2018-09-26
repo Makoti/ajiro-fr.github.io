@@ -68,4 +68,5 @@ L'objectif de cette version du pro action café est de mettre en commun des poin
 ## Variante
 
 Ce format est une variante du Pro action café, dont vous pouvez trouver de nombreuses descriptions, entre autre [celle-ci](https://blog.tcweb.org/article/pro-action-cafe/).
+N'hésitez pas non plus à regarder le format [World Café](http://ajiro.fr/games/world_cafe/), avec un format très similaire.
 Vous pouvez l'adapter en fonction des besoins, le tout étant d'être attentif à réunir les conditions optimales pour un partage enrichissant. Dans cette optique, les rapporteurs, leur qualité d'écoute, de synthèse et de reformulation sont des appuis essentiels.
